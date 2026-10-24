@@ -31,3 +31,4 @@ jobs:
             2. Code Smells e complexidade ciclomática desnecessária.
             3. Aderência às melhores práticas de Java 25 e Spring Boot 3.4.
             4. Responda com comentários técnicos e construtivos diretamente nas linhas do código afetado.
+            5. Não liberar a aprovação do PR em caso de falha na execução
